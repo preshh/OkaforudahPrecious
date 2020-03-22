@@ -1,0 +1,11 @@
+#Name
+Okaforudah Precious
+
+#Email
+graceokaforudah@gmail.com
+
+#Track
+Frontend
+
+#Courses
+HTML,CSS,Javascript
